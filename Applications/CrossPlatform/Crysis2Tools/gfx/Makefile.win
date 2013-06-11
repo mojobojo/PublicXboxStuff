@@ -1,0 +1,4 @@
+
+all:
+	gcc ungfx.c -O2 -I"C:\Program Files (x86)\GnuWin32\include" -L"C:\OpenSSL-Win32\lib\MinGW" "C:\Program Files (x86)\GnuWin32\bin\zlib1.dll" -o ungfx 
+	gcc regfx.c -O2 -I"C:\Program Files (x86)\GnuWin32\include" -L"C:\OpenSSL-Win32\lib\MinGW" "C:\Program Files (x86)\GnuWin32\bin\zlib1.dll" -o regfx

@@ -1,0 +1,4 @@
+LIBRARY      SCIVTrainer
+EXPORTS
+    szModuleName   @1 DATA
+    Load           @2

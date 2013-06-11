@@ -1,0 +1,13 @@
+XGamePatcher - mojobojo 2011
+
+What is this?
+Patches game executables when they start up.
+
+Patches go into a folder named "Patches" in the root directory of a USB stick or HDD.
+The patch names are the games Title ID with a ".patch" at the end (Quake would be Usb:\Patches\584108C8.patch). 
+Freeboot style patches are used, consult kxampatch_builder for more information.
+
+Thanks:
+feudalnate - Ideas, testing
+Nathan - Big help, would be metiocre without him. Always was willing to help, even if I was a pain in the ass.
+All my testers

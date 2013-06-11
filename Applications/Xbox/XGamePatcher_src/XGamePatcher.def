@@ -1,0 +1,4 @@
+LIBRARY      XGamePatcher
+EXPORTS
+    szModuleName	@1 DATA
+    dwModuleVer		@2 DATA

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<xex>
+	<format>
+		<compressed/>
+	</format>
+
+	<version major="0x02" minor="0x00" build="0x22FB" qfe="0x00"/>
+
+	<mediatypes>
+		<harddisk/>
+		<flash/>
+		<usbmass/>
+		<network/>
+		<ram/>
+		<svod/>
+		<allpackages/>
+	</mediatypes>
+	
+	<mfgmode mode = "aware"/>
+	
+	<baseaddr addr = "0x91FD0000"/>
+
+	
+</xex>

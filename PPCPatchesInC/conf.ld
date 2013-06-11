@@ -1,0 +1,3 @@
+ENTRY_POINT = _start;
+ADDRESS_START = 0x82000000;
+afunctocall = 0x82000500;

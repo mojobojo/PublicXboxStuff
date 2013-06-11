@@ -1,0 +1,3 @@
+LIBRARY      PluginDemo
+EXPORTS
+    szModuleName	@1 DATA
