@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bkextractor", "bkextractor\bkextractor.csproj", "{82BC85C9-60C6-45D6-83D3-E6CE08DD4792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caffextractor", "caffextractor\caffextractor.csproj", "{42528473-7596-44A6-BE07-6A1C35D3C69E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFiles", "ListFiles\ListFiles.csproj", "{BA7AF404-2ABD-4B05-8E57-99912FE98A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaffChecksumTest", "CaffChecksumTest\CaffChecksumTest.csproj", "{C9E92281-F3B9-4E64-8897-148FF0F101F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelFiles", "ModelFiles\ModelFiles.csproj", "{C4DDB3AE-B37F-4810-A535-98F87DD3941A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BC85C9-60C6-45D6-83D3-E6CE08DD4792}.Debug|x86.ActiveCfg = Debug|x86
+		{82BC85C9-60C6-45D6-83D3-E6CE08DD4792}.Debug|x86.Build.0 = Debug|x86
+		{82BC85C9-60C6-45D6-83D3-E6CE08DD4792}.Release|x86.ActiveCfg = Release|x86
+		{82BC85C9-60C6-45D6-83D3-E6CE08DD4792}.Release|x86.Build.0 = Release|x86
+		{42528473-7596-44A6-BE07-6A1C35D3C69E}.Debug|x86.ActiveCfg = Debug|x86
+		{42528473-7596-44A6-BE07-6A1C35D3C69E}.Debug|x86.Build.0 = Debug|x86
+		{42528473-7596-44A6-BE07-6A1C35D3C69E}.Release|x86.ActiveCfg = Release|x86
+		{42528473-7596-44A6-BE07-6A1C35D3C69E}.Release|x86.Build.0 = Release|x86
+		{BA7AF404-2ABD-4B05-8E57-99912FE98A63}.Debug|x86.ActiveCfg = Debug|x86
+		{BA7AF404-2ABD-4B05-8E57-99912FE98A63}.Debug|x86.Build.0 = Debug|x86
+		{BA7AF404-2ABD-4B05-8E57-99912FE98A63}.Release|x86.ActiveCfg = Release|x86
+		{BA7AF404-2ABD-4B05-8E57-99912FE98A63}.Release|x86.Build.0 = Release|x86
+		{C9E92281-F3B9-4E64-8897-148FF0F101F4}.Debug|x86.ActiveCfg = Debug|x86
+		{C9E92281-F3B9-4E64-8897-148FF0F101F4}.Debug|x86.Build.0 = Debug|x86
+		{C9E92281-F3B9-4E64-8897-148FF0F101F4}.Release|x86.ActiveCfg = Release|x86
+		{C9E92281-F3B9-4E64-8897-148FF0F101F4}.Release|x86.Build.0 = Release|x86
+		{C4DDB3AE-B37F-4810-A535-98F87DD3941A}.Debug|x86.ActiveCfg = Debug|x86
+		{C4DDB3AE-B37F-4810-A535-98F87DD3941A}.Debug|x86.Build.0 = Debug|x86
+		{C4DDB3AE-B37F-4810-A535-98F87DD3941A}.Release|x86.ActiveCfg = Release|x86
+		{C4DDB3AE-B37F-4810-A535-98F87DD3941A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
