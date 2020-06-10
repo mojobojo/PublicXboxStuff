@@ -1,22 +1,8 @@
 PublicXboxStuff
 ===============
 
-My collection of scripts and code. Now all in public domain. If there is something in there with
-some other license consider it public domain.
-
-Here are some exceptions I found while looking through the code. These were other libs I used that
-were not mine.
-
- - Applications\Xbox\TestBorderlands2Compression\TestBorderlands2Compression\minilzo.c
- - Applications\Xbox\TestBorderlands2Compression\TestBorderlands2Compression\minilzo.h
- - Applications\Windows\AccountCryptor\AccountCryptor\memxor.c
- - Applications\Windows\AccountCryptor\AccountCryptor\memxor.h
- - Applications\Windows\AccountCryptor\AccountCryptor\rc4.c
- - Applications\Windows\AccountCryptor\AccountCryptor\rc4.h
- - Applications\Windows\AccountCryptor\AccountCryptor\sha1.c
- - Applications\Windows\AccountCryptor\AccountCryptor\sha1.h
- - PublicXboxStuff\Applications\Windows\NG2Resigner\NG2Resigner\EndianIO.cs
- - PublicXboxStuff\Applications\Windows\NG2Resigner\NG2Resigner\XtraFuncions.cs
+My collection of scripts and code. Now all in public domain. If I have anything
+that I wrote listed with a different licence, consider that previous license void.
 
 This is free and unencumbered software released into the public domain.
 
